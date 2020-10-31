@@ -1,2 +1,1 @@
-# Portfolio
-www.portfolioismail.netlify.app
+https://ismailportfolio.netlify.app/
